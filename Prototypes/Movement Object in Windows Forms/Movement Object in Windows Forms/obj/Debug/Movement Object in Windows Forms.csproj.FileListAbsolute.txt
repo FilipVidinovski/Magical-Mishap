@@ -1,0 +1,11 @@
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement Object in Windows Forms.csproj.AssemblyReference.cache
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement Object in Windows Forms.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement_Object_in_Windows_Forms.Form1.resources
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement_Object_in_Windows_Forms.Properties.Resources.resources
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement Object in Windows Forms.csproj.GenerateResource.cache
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement Object in Windows Forms.csproj.CoreCompileInputs.cache
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\bin\Debug\Movement Object in Windows Forms.exe.config
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\bin\Debug\Movement Object in Windows Forms.exe
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\bin\Debug\Movement Object in Windows Forms.pdb
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement Object in Windows Forms.exe
+D:\Visual Studio Reposit\Movement Object in Windows Forms\Movement Object in Windows Forms\obj\Debug\Movement Object in Windows Forms.pdb
