@@ -1,0 +1,11 @@
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\bin\Debug\Prototype - Vertical Bouncing Ball.exe.config
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\bin\Debug\Prototype - Vertical Bouncing Ball.exe
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\bin\Debug\Prototype - Vertical Bouncing Ball.pdb
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype - Vertical Bouncing Ball.csproj.AssemblyReference.cache
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype - Vertical Bouncing Ball.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype___Vertical_Bouncing_Ball.Form1.resources
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype___Vertical_Bouncing_Ball.Properties.Resources.resources
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype - Vertical Bouncing Ball.csproj.GenerateResource.cache
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype - Vertical Bouncing Ball.csproj.CoreCompileInputs.cache
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype - Vertical Bouncing Ball.exe
+D:\Visual Studio Reposit\Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball\obj\Debug\Prototype - Vertical Bouncing Ball.pdb

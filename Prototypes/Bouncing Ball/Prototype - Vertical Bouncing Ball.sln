@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype - Vertical Bouncing Ball", "Prototype - Vertical Bouncing Ball\Prototype - Vertical Bouncing Ball.csproj", "{B913DF21-B571-4170-AA2D-64C4B7CA6CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B913DF21-B571-4170-AA2D-64C4B7CA6CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B913DF21-B571-4170-AA2D-64C4B7CA6CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B913DF21-B571-4170-AA2D-64C4B7CA6CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B913DF21-B571-4170-AA2D-64C4B7CA6CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE8F3CFB-7BF9-4A78-BB73-07A9F09245BD}
+	EndGlobalSection
+EndGlobal
