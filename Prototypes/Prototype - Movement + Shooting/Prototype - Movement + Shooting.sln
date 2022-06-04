@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype - Movement + Shooting", "Prototype - Movement + Shooting\Prototype - Movement + Shooting.csproj", "{B153BA75-DE80-4F32-8927-5E792D2AFC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B153BA75-DE80-4F32-8927-5E792D2AFC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B153BA75-DE80-4F32-8927-5E792D2AFC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B153BA75-DE80-4F32-8927-5E792D2AFC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B153BA75-DE80-4F32-8927-5E792D2AFC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {395456F1-919F-406C-A173-8B8EE7DE933B}
+	EndGlobalSection
+EndGlobal

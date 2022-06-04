@@ -1,0 +1,11 @@
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\bin\Debug\Prototype - Movement + Shooting.exe.config
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\bin\Debug\Prototype - Movement + Shooting.exe
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\bin\Debug\Prototype - Movement + Shooting.pdb
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype - Movement + Shooting.csproj.AssemblyReference.cache
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype - Movement + Shooting.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype___Movement___Shooting.Form1.resources
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype___Movement___Shooting.Properties.Resources.resources
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype - Movement + Shooting.csproj.GenerateResource.cache
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype - Movement + Shooting.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype - Movement + Shooting.exe
+D:\Visual Studio Repository\Prototype - Movement + Shooting\Prototype - Movement + Shooting\obj\Debug\Prototype - Movement + Shooting.pdb
