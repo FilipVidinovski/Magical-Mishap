@@ -1,0 +1,11 @@
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\bin\Debug\Prototype - Movement + Bouncing Ball.exe.config
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\bin\Debug\Prototype - Movement + Bouncing Ball.exe
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\bin\Debug\Prototype - Movement + Bouncing Ball.pdb
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype - Movement + Bouncing Ball.csproj.AssemblyReference.cache
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype - Movement + Bouncing Ball.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype___Movement___Bouncing_Ball.Form1.resources
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype___Movement___Bouncing_Ball.Properties.Resources.resources
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype - Movement + Bouncing Ball.csproj.GenerateResource.cache
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype - Movement + Bouncing Ball.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype - Movement + Bouncing Ball.exe
+D:\Visual Studio Repository\Prototypes\Prototype - Movement + Bouncing Ball\Prototype - Movement + Bouncing Ball\obj\Debug\Prototype - Movement + Bouncing Ball.pdb
