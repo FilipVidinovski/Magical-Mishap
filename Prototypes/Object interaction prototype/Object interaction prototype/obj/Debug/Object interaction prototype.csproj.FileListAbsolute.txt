@@ -1,0 +1,11 @@
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\bin\Debug\Object interaction prototype.exe.config
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\bin\Debug\Object interaction prototype.exe
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\bin\Debug\Object interaction prototype.pdb
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object interaction prototype.csproj.AssemblyReference.cache
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object interaction prototype.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object_interaction_prototype.Form1.resources
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object_interaction_prototype.Properties.Resources.resources
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object interaction prototype.csproj.GenerateResource.cache
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object interaction prototype.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object interaction prototype.exe
+D:\Visual Studio Repository\Object interaction prototype\Object interaction prototype\obj\Debug\Object interaction prototype.pdb
