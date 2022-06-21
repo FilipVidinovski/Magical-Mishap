@@ -1,0 +1,13 @@
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.csproj.AssemblyReference.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu_Prototype.Form1.resources
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu_Prototype.Properties.Resources.resources
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.csproj.GenerateResource.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\bin\Debug\Menu Prototype.exe.config
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\bin\Debug\Menu Prototype.exe
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\bin\Debug\Menu Prototype.pdb
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.exe
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.pdb
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Menu Prototype\Menu Prototype\obj\Debug\Menu Prototype.csproj.ResolveComReference.cache
