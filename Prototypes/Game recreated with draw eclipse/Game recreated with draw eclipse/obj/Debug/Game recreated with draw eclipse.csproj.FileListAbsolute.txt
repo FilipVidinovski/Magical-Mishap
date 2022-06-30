@@ -1,0 +1,11 @@
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\bin\Debug\Game recreated with draw eclipse.exe.config
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\bin\Debug\Game recreated with draw eclipse.exe
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\bin\Debug\Game recreated with draw eclipse.pdb
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game recreated with draw eclipse.csproj.AssemblyReference.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game recreated with draw eclipse.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game_recreated_with_draw_eclipse.Form1.resources
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game_recreated_with_draw_eclipse.Properties.Resources.resources
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game recreated with draw eclipse.csproj.GenerateResource.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game recreated with draw eclipse.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game recreated with draw eclipse.exe
+D:\Visual Studio Repository\Magical-Mishap Proekt\Prototypes\Game recreated with draw eclipse\Game recreated with draw eclipse\obj\Debug\Game recreated with draw eclipse.pdb
