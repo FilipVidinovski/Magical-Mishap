@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magical Mishap", "Magical Mishap\Magical Mishap.csproj", "{A6243221-9282-417B-9F80-C51D31A574C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6243221-9282-417B-9F80-C51D31A574C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6243221-9282-417B-9F80-C51D31A574C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6243221-9282-417B-9F80-C51D31A574C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6243221-9282-417B-9F80-C51D31A574C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6312E3D2-9B3B-4717-B680-06331E656DD3}
+	EndGlobalSection
+EndGlobal
